@@ -10,9 +10,9 @@
 
 <!-- === Links === -->
 
-[stats]: https://github-readme-stats.vercel.app/api?username=Lit_to_&show_icons=true&theme=tokyonight
-[top-langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=Lit_to_&langs_count=4&layout=compact&theme=tokyonight
-[trophy]: https://github-profile-trophy.vercel.app/?username=Lit_to_&theme=onedark
+[stats]: https://github-readme-stats.vercel.app/api?username=Lit-to&show_icons=true&theme=tokyonight
+[top-langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=Lit-to&langs_count=4&layout=compact&theme=tokyonight
+[trophy]: https://github-profile-trophy.vercel.app/?username=Lit-to&theme=onedark
 
 [github-readme-stats]: https://github.com/anuraghazra/github-readme-stats
 
